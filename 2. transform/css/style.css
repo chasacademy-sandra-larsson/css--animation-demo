@@ -1,0 +1,19 @@
+.box {
+    width: 80px;
+    height: 80px;
+    margin: 80px;
+    background-image: linear-gradient(90deg, #fee140 0%, #fa709a 100%);
+  
+  }
+  
+  .box:hover {
+    /* TRANSFORM */
+    /* Rotera (deg, rad, turn) - rotate()*/
+   
+    /* Flytta i x-led eller y-led - translateX(), translateY()*/
+  
+    /* Ändra storlek (2 är dubbelt så stort, 0.5 häften). - scale()*/
+  
+    /*"Skeva" ett element (deg) - skew()*/
+   
+  }
