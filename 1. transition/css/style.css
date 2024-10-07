@@ -14,12 +14,13 @@
     /*Fördröjning för övergånen (ms, s) */
    
     /* Shorthand */
-    /*transition: all 1s ease-in 300ms;*/
+    transition: all 0.5s ease-in 300ms;
   
   }
   
   /* Det som ändras när musen är över elementet*/
   .box:hover {
     width: 400px;
+    height: 400px;
   }
   

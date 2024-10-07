@@ -9,10 +9,13 @@
   .box:hover {
     /* TRANSFORM */
     /* Rotera (deg, rad, turn) - rotate()*/
+    /* transform: rotate(45deg); */
    
     /* Flytta i x-led eller y-led - translateX(), translateY()*/
+    /* transform: translate(100px, 200px) */
   
     /* Ändra storlek (2 är dubbelt så stort, 0.5 häften). - scale()*/
+    transform: scale(1.2);
   
     /*"Skeva" ett element (deg) - skew()*/
    
