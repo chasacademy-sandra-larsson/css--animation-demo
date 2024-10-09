@@ -21,27 +21,8 @@
     font-size: 20px;
   }
   
-  .loader {
-    margin: auto;
-    margin-top: 30px;
-    margin-bottom: 100px;
-    border: 16px solid #bdc3c7;
-    width: 100px;
-    height: 100px;
-    /* animation: */
-  
-  }
-  
-  @keyframes spin {
-      0% {
-     
-      }
-      100% {
-    
-      }
-      
-  }
-  
+ 
+ 
   .loader {
     margin: auto;
     margin-top: 30px;
